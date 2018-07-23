@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/32/tips</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/32/tips" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19.9549531,26 C19.7418171,28.0082774 18.0422455,29.5730351 15.9774765,29.5730351 C13.9127075,29.5730351 12.213136,28.0082774 12,26 C13.26079,26.3728869 14.5957521,26.5730351 15.9774765,26.5730351 C17.359201,26.5730351 18.694163,26.3728869 19.9549531,26 Z" id="Combined-Shape" stroke="#CCA366" stroke-width="2"></path>
+        <path d="M26,13 C26,18.523 21.523,23 16,23 C10.477,23 6,18.523 6,13 C6,7.477 10.477,3 16,3 C21.523,3 26,7.477 26,13 Z" id="Stroke-1" stroke="#CCA366" stroke-width="2"></path>
+        <polyline id="Rectangle-4" stroke="#CCA366" stroke-width="2" stroke-linecap="round" transform="translate(15.828427, 14.414214) rotate(-45.000000) translate(-15.828427, -14.414214) " points="18.1213203 16.7071068 13.5355339 16.7071068 13.5355339 12.1213203"></polyline>
+        <path d="M16,19 L16,22" id="Line-2" stroke="#CCA366" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>
